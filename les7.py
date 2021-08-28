@@ -1,4 +1,4 @@
-#functions
+#functions VAT (НДС)
 def get_vat (payment, percent = 20): #def - define - определяет функцию
 	try:
 		payment = float (payment) 
